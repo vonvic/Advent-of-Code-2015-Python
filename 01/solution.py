@@ -42,5 +42,3 @@ def part_two_answer() -> int:
     return _basement_first_occ(floor_seq)
 
 floor_seq = _load_floor_seq('01/input/input.txt')
-print(part_one_answer())
-print(part_two_answer())
